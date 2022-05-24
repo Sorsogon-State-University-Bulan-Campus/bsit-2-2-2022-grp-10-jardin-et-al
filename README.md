@@ -18,7 +18,7 @@ Our website assists you in the formations of new businesses and allows businesse
 
 Our website is all about financial business, where you can find out the things that can be done how to balance your money into your business. 
 
-
+  
 ## Acknowledgment
 We would like to thank all of the persons that helped us in finishing this project. Specially, Mr. Anthony Gacis for the guidance and knowledge.
 
